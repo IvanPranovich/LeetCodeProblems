@@ -7,7 +7,7 @@ namespace LeetCodeProblems
     /// <summary>
     /// Given a string, find the length of the longest substring without repeating characters.
     /// </summary>
-    public class N003_LongestSubstringWithoutRepeatingCharacters
+    public class N0003_LongestSubstringWithoutRepeatingCharacters
     {
         public int LengthOfLongestSubstring(string s)
         {
